@@ -13,7 +13,7 @@ Broadsheet Engineer Portfolio is a premium neo-brutalist portfolio template on P
 
 Broadsheet Engineer Portfolio — Neo-Brutalist Print
 
-The Broadsheet Engineer Portfolio is a premium neo-brutalist template in the Portfolios category on PromptedSite that includes a 1007-word generation prompt and html-css-js source code. The prompt generates a single-page, multi-section personal portfolio and digital resume for a senior software engineer staged as a printable neo-brutalist document on warm cream paper. Lifetime access costs a one-time payment of $49 and includes the full prompt with source code.
+The Broadsheet Engineer Portfolio is a premium neo-brutalist template in the Portfolios category on PromptedSite that includes a 1007-word generation prompt and html-css-js source code. The prompt generates a single-page, multi-section personal portfolio and digital resume for a senior software engineer staged as a printable neo-brutalist document on warm cream paper.
 
 # VOLTLINE — NEO-BRUTALIST ENGINEER RESUME PORTFOLIO > A SELF-CONTAINED GENERATION PROMPT FOR A SINGLE-PAGE, MULTI-SECTION > PERSONAL PORTFOLIO / DIGITAL RESUME FOR A SENIOR SOFTWARE ENGINEER, > STAGED AS A LOUD, PRINTABLE NEO-BRUTALIST DOCUMENT ON WARM CREAM PAPER. ## AE
 

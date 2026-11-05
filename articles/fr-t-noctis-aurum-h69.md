@@ -14,7 +14,7 @@ Le modèle Champagne Gold Jewelry Landing propose une page de joaillerie en html
 
 Champagne Gold Jewelry Landing — Page de joaillerie de luxe
 
-Le modèle Champagne Gold Jewelry Landing propose une page de joaillerie en html-css-js pour la maison Noctis Aurum. Classée dans la catégorie Landing Pages avec un accès Premium, cette création adopte l'esthétique Obsidian & Champagne. L'ensemble comprend un prompt de 1117 mots et son code source, disponibles pour un paiement unique de $49 sans abonnement.
+Le modèle Champagne Gold Jewelry Landing propose une page de joaillerie en html-css-js pour la maison Noctis Aurum. Classée dans la catégorie Landing Pages avec un accès Premium, cette création adopte l'esthétique Obsidian & Champagne.
 
 # NOCTIS AURUM — FINE JEWELRY MAISON LANDING PAGE ## AESTHETIC IDENTITY BUILD A FULL, MULTI-SECTION E-COMMERCE LANDING PAGE FOR A FICTIONAL FINE JEWELRY MAISON NAMED **NOCTIS AURUM** (ATELIER DE LUXE, EST. 1989). THE NAMED AESTHETIC IDENTITY IS **"OBSIDIAN & CHAMPAGNE"** —
 
